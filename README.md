@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 👨‍💻 All of my projects are available at [https://andrewjsunwoo.netlify.app/](https://andrewjsunwoo.netlify.app/)
-
 - 📫 How to reach me **andrewjsunwoo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
