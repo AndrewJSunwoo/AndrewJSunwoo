@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrew Sunwoo</h1>
 <h3 align="center">Full Stack Developer | Software Engineer | Mobile Developer</h3>
 
-- 🔭 I’m currently working on **AWS Developer Associate Certification**
+- 🔭 I’m currently working at **HashedTokens** as a **Founding Engineer**
 
 - 🌱 I’m currently learning **AWS**
 
