@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrew Sunwoo</h1>
-<h3 align="center">Full Stack Developer | Software Developer | DevOps Engineer</h3>
-
-- 🔭 I’m currently working at **HashedTokens** as a Full Stack Developer Intern
-
-- 🌱 I’m a **AWS Certified Developer**
-
-- 📫 How to reach me **andrewjsunwoo@gmail.com**
-  
-- 👨‍💻 All of my projects are available at [https://andrewjsunwoo.github.io/Portfolio/](https://andrewjsunwoo.github.io/Portfolio/)
+<h3 align="center">Software Developer</h3>
 
 
 <h3 align="left">Connect with me:</h3>
